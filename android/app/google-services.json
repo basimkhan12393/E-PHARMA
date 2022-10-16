@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419679921812",
+    "project_id": "doctor-consultancy-bd10b",
+    "storage_bucket": "doctor-consultancy-bd10b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419679921812:android:04c0f80e1cd64fd9cdb681",
+        "android_client_info": {
+          "package_name": "com.example.consutancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419679921812-03ttqs6h061h4sn9gkjpvdhj6qre9c2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGUCwkfsIneOT4P4IVYq7cJ9sqF5flXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419679921812-03ttqs6h061h4sn9gkjpvdhj6qre9c2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
